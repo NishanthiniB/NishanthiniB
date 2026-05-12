@@ -1,30 +1,29 @@
-# 💫 About Me:
-🔭 I’m currently working on Java backend projects.<br>👯  I’m open to collaborating on tech projects with both non-tech individuals and those proficient in Java-related fields.<br>🤝 I’m looking for help with transitioning from non-tech to tech aspirations.<br>🌱 I'm Currently delving into CS topics, focusing on backend development, and actively preparing for interviews.<br>💬 Ask me about Java-related topics!<br>⚡ Fun fact I am lazy but smart
+<h1 align="center">Hi 👋, I'm Nishanthini B</h1>
+<h3 align="center">A passionate Java Backend Developer from India 🇮🇳</h3>
 
+- 🔭 I’m currently working on **Java Backend Projects | Microservices APIs**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishanthini-boserajan-b426bb1b7/) 
+- 🌱 I’m currently learning **System Design, Kafka, AWS, Microservices**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NishanthiniB&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NishanthiniB&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthiniB&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 👯 I’m looking to collaborate on **Backend Development Projects | Java & Spring Boot**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NishanthiniB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🤝 I’m looking for help with **System Design | Scalable Architecture | DSA**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 👨‍💻 All of my projects are available at [https://github.com/NishanthiniB](https://github.com/NishanthiniB)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NishanthiniB&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 💬 Ask me about **Java, Spring Boot, REST APIs, MongoDB, Kafka**
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 📫 How to reach me **nishaemailhub@gmail.cm**
 
----
-[![](https://visitcount.itsvg.in/api?id=NishanthiniB&icon=4&color=3)](https://visitcount.itsvg.in)
+- ⚡ Fun fact **I may look lazy, but I automate things smartly 😄**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nisha05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nisha05/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/b_nishanthini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/b_nishanthini/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishanthinib&show_icons=true&locale=en&layout=compact" alt="nishanthinib" /></p>
