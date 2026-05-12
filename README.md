@@ -1,83 +1,52 @@
-```md id="u8l0ko"
-<div align="center">
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLz37weRlMSXCx/giphy.gif" width="25px"> I'm Nishanthini B
 
-# Hi 👋 I'm Nishanthini
-
-### Java Backend Developer • Spring Boot • Kafka • AWS
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Building+Scalable+Backend+Systems;Backend+Developer+from+India;Always+Learning+New+Things+🚀" />
-
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B5B5B5&width=435&lines=Java+Backend+Developer;SDE+Aspirant;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</p>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### 🚀 My Focus Area
+I specialize in building robust backend architectures. Currently, I am sharpening my logic through Data Structures & Algorithms and exploring the world of system design.
 
-### 👩‍💻 About Me
-
-- 🚀 Backend developer passionate about scalable systems
-- 🌱 Currently learning System Design & Microservices
-- 💡 Interested in Kafka, APIs, Cloud & Architecture
-- 🎯 Preparing for product-based companies
-- ⚡ Fun fact: Smart enough to automate lazy work 😄
-
-<br><br>
+- 🔭 **Learning:** Spring Boot Microservices & Docker
+- ⚡ **Goal:** Engineering scalable solutions for real-world problems
+- 🌱 **Current Activity:** Mastering DSA & System Design
 
 ---
 
-# ⚒️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,mongodb,aws,maven,docker,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
-# 📈 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NishanthiniB&theme=midnight-purple&hide_border=true" />
-
-</div>
+### 🛠 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,maven,git,docker,aws&theme=light" />
+  </a>
+</p>
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NishanthiniB&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
+### 🐍 Activity Streak
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-# 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/NishanthiniB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishanthiniB&repo=YOUR_REPO_NAME&theme=midnight-purple&hide_border=true" />
+### 📫 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/your-profile-url" target="blank">
+  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://github.com/NishanthiniB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishanthiniB&repo=YOUR_SECOND_REPO&theme=midnight-purple&hide_border=true" />
+<a href="https://leetcode.com/nishasuresh1305/" target="blank">
+  <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-</div>
+<a href="mailto:nishanthini.b@example.com" target="blank">
+  <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
-
-<div align="center">
-
-### 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/nishanthini-boserajan-b426bb1b7/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-</div>
-```
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
